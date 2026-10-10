@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /database/
+
+Sitemap: https://prestigeeevents.com/sitemap.xml
+
+# Crawl delay for search engines (in seconds)
+Crawl-delay: 1
